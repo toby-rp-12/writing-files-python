@@ -59,3 +59,7 @@ print(load_message("note.txt"))
 hello
 more text
 ```
+
+## Files Key
+- **txt_files** contains the txt files I created while testing this program.
+- **files.py** includes the filled out assignment.
